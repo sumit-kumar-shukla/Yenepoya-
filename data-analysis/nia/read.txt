@@ -1,0 +1,4 @@
+Visit https://nia.gov.in/nia-cases.htm
+Download the page as html
+
+Load it in your colab notebook
